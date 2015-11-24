@@ -6,3 +6,5 @@
 2. Enter your database details in db-connection.php
 3. To easily create search records go to /new-entry.php
 4. Go to the index and have fun!
+
+5. You can view all entries at /all-entries.php
